@@ -1,0 +1,97 @@
+<mxfile host="app.diagrams.net" modified="2023-04-30T11:53:21.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="zsx7ZZDyw8-Qc53a0yl4" version="21.2.3" type="device">
+  <diagram name="Page-1" id="lasJL4_EkP88DJrwbr8o">
+    <mxGraphModel dx="1050" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5WS16HUKqSB75lVhOpSD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.305;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5WS16HUKqSB75lVhOpSD-1" target="5WS16HUKqSB75lVhOpSD-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5WS16HUKqSB75lVhOpSD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5WS16HUKqSB75lVhOpSD-1" target="5WS16HUKqSB75lVhOpSD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5WS16HUKqSB75lVhOpSD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.563;entryY=0.14;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5WS16HUKqSB75lVhOpSD-1" target="5WS16HUKqSB75lVhOpSD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5WS16HUKqSB75lVhOpSD-1" value="&lt;b&gt;What is computer&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5WS16HUKqSB75lVhOpSD-3" value="electronic device which is able to perform some calculations" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="70" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5WS16HUKqSB75lVhOpSD-5" value="used to store the data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="118" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5WS16HUKqSB75lVhOpSD-6" value="it can control other machine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="88" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5WS16HUKqSB75lVhOpSD-10" value="&lt;b&gt;Why coputer is used?&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="190" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5WS16HUKqSB75lVhOpSD-11" value="to process the data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="260" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5WS16HUKqSB75lVhOpSD-12" value="to perfrom some tasks" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="288" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5WS16HUKqSB75lVhOpSD-13" value="to complete our work easily, efficiently and rapidly with the facility to store our data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="258" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5WS16HUKqSB75lVhOpSD-15" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
+          <mxGeometry x="400" y="420" width="185" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="5WS16HUKqSB75lVhOpSD-16" value="&lt;b&gt;node.js&lt;br&gt;chrome&lt;br&gt;mysql&lt;br&gt;mongodb&lt;br&gt;java&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="428" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5WS16HUKqSB75lVhOpSD-17" value="figma&lt;br&gt;insomia&lt;br&gt;adobe xd&lt;br&gt;after affects&lt;br&gt;postgresql" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="620" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5WS16HUKqSB75lVhOpSD-18" value="SAP&lt;br&gt;excel addons" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="613" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5WS16HUKqSB75lVhOpSD-19" value="zoom&lt;br&gt;photoshop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="613" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5WS16HUKqSB75lVhOpSD-20" value="Hardware" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="428" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5WS16HUKqSB75lVhOpSD-21" value="wap to add two number" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="105" y="778" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5WS16HUKqSB75lVhOpSD-22" value="two numbers&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="828" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5WS16HUKqSB75lVhOpSD-23" value="third&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="828" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5WS16HUKqSB75lVhOpSD-24" value="party 7 - 12" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="878" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5WS16HUKqSB75lVhOpSD-25" value="10 - 7 to 8&lt;br&gt;10 8 to 9&amp;nbsp;&lt;br&gt;10 9 to 10&amp;nbsp;&lt;br&gt;10 ...." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="798" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5WS16HUKqSB75lVhOpSD-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5WS16HUKqSB75lVhOpSD-26" target="5WS16HUKqSB75lVhOpSD-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5WS16HUKqSB75lVhOpSD-26" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="760" y="698" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5WS16HUKqSB75lVhOpSD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5WS16HUKqSB75lVhOpSD-27" target="5WS16HUKqSB75lVhOpSD-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5WS16HUKqSB75lVhOpSD-27" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="760" y="868" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5WS16HUKqSB75lVhOpSD-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5WS16HUKqSB75lVhOpSD-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="808" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5WS16HUKqSB75lVhOpSD-34" value="8-10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" y="928" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
